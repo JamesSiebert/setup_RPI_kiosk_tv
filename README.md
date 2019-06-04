@@ -1,6 +1,10 @@
 # RPI_kiosk_tv
 PUBLIC - An auto bash installer script that does the bulk of the setup for a Raspberry Pi to run as a TV. (Tested on RPI3B+, run from fresh 2019-04-08-raspbian-stretch install)
 
+4/6/19 By JamesSiebert
+Built on RPI 3B+
+on fresh 2019-04-08-raspbian-stretch install
+
 
 Prior to running script:
   Start > Preferences > Raspberry Pi Configuration
